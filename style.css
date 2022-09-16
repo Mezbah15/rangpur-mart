@@ -1,0 +1,29 @@
+.container{
+    padding-bottom: 50px;
+}
+.navbar .half-width{
+    width: 400px;
+    margin-left:120px;
+    margin-right: 80px;
+}
+.navbar img{
+    width: 30%;
+}
+.banner .half-width{
+    width: 500px;
+    height: 535px;
+    float: left;
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+}
+.banner img{
+    width: 100%;
+    margin-left: 150px;
+}
+.banner .description{
+    margin-top: 100px;
+    margin-left: 10px;
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
